@@ -2,9 +2,9 @@
 
 This repository contains the implementations and results of a series of deep learning experiments conducted as part of the CS5567 Deep Learning Final Project at UMKC under Dr. Jesse Lowe. The project explores advanced image processing techniques through a variety of tasks including image classification, transfer learning, fine-tuning, and segmentation using pre-trained deep neural networks.
 
-# Overview
+## Overview
 
-## The project is structured into two main parts:
+### The project is structured into two main parts:
 
     Part A: Advanced Classification Techniques
         Experiment 1: Custom CNN for CIFAR-10 image classification.
@@ -17,7 +17,7 @@ This repository contains the implementations and results of a series of deep lea
         Experiment 2: Image segmentation with the SegFormer model on provided datasets.
         Generative Models Contest: Style transfer applying neural style techniques to personal images.
 
-## Methods and Technologies
+### Methods and Technologies
 
     Frameworks and Libraries: TensorFlow, Keras, and PyTorch for model building and training.
     Tools: Jupyter Notebooks and Google Colab for implementing and documenting the experiments.
