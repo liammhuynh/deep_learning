@@ -1,7 +1,8 @@
 # Deep Learning Experiments for Image Processing
 
-This repository contains the implementation and results of a series of deep learning experiments conducted as part of the CS5567 Deep Learning Final Project at UMKC. The project explores advanced image processing techniques through a variety of tasks, including image classification, transfer learning, fine-tuning, and segmentation using pre-trained deep neural networks.
-Overview
+This repository contains the implementations and results of a series of deep learning experiments conducted as part of the CS5567 Deep Learning Final Project at UMKC under Dr. Jesse Lowe. The project explores advanced image processing techniques through a variety of tasks including image classification, transfer learning, fine-tuning, and segmentation using pre-trained deep neural networks.
+
+# Overview
 
 ## The project is structured into two main parts:
 
